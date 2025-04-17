@@ -1,0 +1,7 @@
+C:\Users\JBJCM\Desktop\Proyectos\C#\Practicas Condicionales simple y doble\Practicas Condicionales simple y doble\bin\Debug\Practicas Condicionales simple y doble.exe.config
+C:\Users\JBJCM\Desktop\Proyectos\C#\Practicas Condicionales simple y doble\Practicas Condicionales simple y doble\bin\Debug\Practicas Condicionales simple y doble.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\Practicas Condicionales simple y doble\Practicas Condicionales simple y doble\bin\Debug\Practicas Condicionales simple y doble.pdb
+C:\Users\JBJCM\Desktop\Proyectos\C#\Practicas Condicionales simple y doble\Practicas Condicionales simple y doble\obj\Debug\Practicas Condicionales simple y doble.csproj.AssemblyReference.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\Practicas Condicionales simple y doble\Practicas Condicionales simple y doble\obj\Debug\Practicas Condicionales simple y doble.csproj.CoreCompileInputs.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\Practicas Condicionales simple y doble\Practicas Condicionales simple y doble\obj\Debug\Practicas Condicionales simple y doble.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\Practicas Condicionales simple y doble\Practicas Condicionales simple y doble\obj\Debug\Practicas Condicionales simple y doble.pdb

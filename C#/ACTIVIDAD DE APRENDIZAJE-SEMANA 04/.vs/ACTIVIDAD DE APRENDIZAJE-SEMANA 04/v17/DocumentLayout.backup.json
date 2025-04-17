@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JBJCM\\Desktop\\Proyectos\\C#\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00304460-EEF8-4849-9454-CE10414EFD3B}|ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04.csproj|c:\\users\\jbjcm\\desktop\\proyectos\\c#\\actividad de aprendizaje-semana 04\\actividad de aprendizaje-semana 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00304460-EEF8-4849-9454-CE10414EFD3B}|ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04.csproj|solutionrelative:actividad de aprendizaje-semana 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ACTIVIDAD DE APRENDIZAJE-SEMANA 04||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00304460-EEF8-4849-9454-CE10414EFD3B}|ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04.csproj|c:\\users\\jbjcm\\desktop\\proyectos\\c#\\actividad de aprendizaje-semana 04\\actividad de aprendizaje-semana 04\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ACTIVIDAD DE APRENDIZAJE-SEMANA 04",
+              "DocumentMoniker": "C:\\Users\\JBJCM\\Desktop\\Proyectos\\C#\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04.csproj",
+              "RelativeDocumentMoniker": "ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04.csproj",
+              "ToolTip": "C:\\Users\\JBJCM\\Desktop\\Proyectos\\C#\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04.csproj",
+              "RelativeToolTip": "ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T01:03:49.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JBJCM\\Desktop\\Proyectos\\C#\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\Program.cs",
+              "RelativeDocumentMoniker": "ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\Program.cs",
+              "ToolTip": "C:\\Users\\JBJCM\\Desktop\\Proyectos\\C#\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\Program.cs*",
+              "RelativeToolTip": "ACTIVIDAD DE APRENDIZAJE-SEMANA 04\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:57:48.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\JBJCM\Desktop\Proyectos\C#\Ejemplo 01\Ejemplo 01\bin\Debug\Ejemplo 01.exe.config
+C:\Users\JBJCM\Desktop\Proyectos\C#\Ejemplo 01\Ejemplo 01\bin\Debug\Ejemplo 01.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\Ejemplo 01\Ejemplo 01\bin\Debug\Ejemplo 01.pdb
+C:\Users\JBJCM\Desktop\Proyectos\C#\Ejemplo 01\Ejemplo 01\obj\Debug\Ejemplo 01.csproj.AssemblyReference.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\Ejemplo 01\Ejemplo 01\obj\Debug\Ejemplo 01.csproj.CoreCompileInputs.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\Ejemplo 01\Ejemplo 01\obj\Debug\Ejemplo 01.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\Ejemplo 01\Ejemplo 01\obj\Debug\Ejemplo 01.pdb

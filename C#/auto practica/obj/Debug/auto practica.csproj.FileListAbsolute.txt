@@ -1,0 +1,7 @@
+C:\Users\JBJCM\Desktop\Proyectos\C#\auto practica\bin\Debug\auto practica.exe.config
+C:\Users\JBJCM\Desktop\Proyectos\C#\auto practica\bin\Debug\auto practica.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\auto practica\bin\Debug\auto practica.pdb
+C:\Users\JBJCM\Desktop\Proyectos\C#\auto practica\obj\Debug\auto practica.csproj.AssemblyReference.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\auto practica\obj\Debug\auto practica.csproj.CoreCompileInputs.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\auto practica\obj\Debug\auto practica.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\auto practica\obj\Debug\auto practica.pdb

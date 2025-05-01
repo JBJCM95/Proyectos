@@ -1,0 +1,7 @@
+C:\Users\JBJCM\Desktop\Proyectos\C#\PC_G_EJ1\PC_G_EJ1\bin\Debug\PC_G_EJ1.exe.config
+C:\Users\JBJCM\Desktop\Proyectos\C#\PC_G_EJ1\PC_G_EJ1\bin\Debug\PC_G_EJ1.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\PC_G_EJ1\PC_G_EJ1\bin\Debug\PC_G_EJ1.pdb
+C:\Users\JBJCM\Desktop\Proyectos\C#\PC_G_EJ1\PC_G_EJ1\obj\Debug\PC_G_EJ1.csproj.AssemblyReference.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\PC_G_EJ1\PC_G_EJ1\obj\Debug\PC_G_EJ1.csproj.CoreCompileInputs.cache
+C:\Users\JBJCM\Desktop\Proyectos\C#\PC_G_EJ1\PC_G_EJ1\obj\Debug\PC_G_EJ1.exe
+C:\Users\JBJCM\Desktop\Proyectos\C#\PC_G_EJ1\PC_G_EJ1\obj\Debug\PC_G_EJ1.pdb
